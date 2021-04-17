@@ -19,6 +19,7 @@ The following workflow and processing is suggested to interrogate, process, inte
 ## Altair used to Interrogate the Rosetta Stone Thomeer Capillary Pressure curves and Petrophysical Rock Types (PRTs):
 ![Geolog_Image](geolog_altair_thomeer.gif)
 
+## Petrophysical Rock Typing (PRT):
 Most macro rock typically has a dual porosity system where the Pore Throat Distribution (PTD) will have two modes as shown below. 
 
 ![Mode.png](Mode.png)
@@ -27,12 +28,9 @@ The macro portion of the rock will have a mode greater than 2 microns with a sec
 
 The following are some example results using Altair where the data in cross plots can be selected and then the appropriate data for those selected samples are shown in the bar charts below the cross plots. 
 
-
 ## Altair used to Compare Clerke's Petrophysical Rock Types (PRTs) to Winland r35 and Amaefule FZI and RQI:
 ![Geolog_Image](prt.gif)
 
-
-## Petrophysical Rock Typing (PRT):
 One of the benefits of working with Thomeer parameters is that the exact mode of the PTD (radius) can be calculated for each sample using the Buiting Mode equation as shown below:
 
         Mode(microns) = (exp(-1.15 * G) * (214/Pd))/2
