@@ -19,6 +19,9 @@ The following workflow and processing is suggested to interrogate, process, inte
 ##### Altair used to Interrogate the Rosetta Stone Thomeer Capillary Pressure curves and Petrophysical Rock Types (PRTs):
 ![Geolog_Image](geolog_altair_thomeer.gif)
 
+##### Altair used to Compare Clerke's Petrophysical Rock Types (PRTs) to Winland r35 and Amaefule FZI and RQI:
+![Geolog_Image](prt.gif)
+
 
 2) Run MultiMin for a solid log analysis model using the typical minerals found in the Arab D reservoir; Limestone, Dolomite, Anhydrite and Illite. With MultiMin we always use environmentally corrected log data and use the calculated uncertainties for each log curve employed in the analysis. 
 
