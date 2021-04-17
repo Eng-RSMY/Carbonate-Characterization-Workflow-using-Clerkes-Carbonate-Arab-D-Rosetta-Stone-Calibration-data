@@ -27,10 +27,12 @@ The macro portion of the rock will have a mode greater than 2 microns with a sec
 
 The following are some example results using Altair where the data in cross plots can be selected and then the appropriate data for those selected samples are shown in the bar charts below the cross plots. 
 
-![prt.gif](prt.gif)
+
+## Altair used to Compare Clerke's Petrophysical Rock Types (PRTs) to Winland r35 and Amaefule FZI and RQI:
+![Geolog_Image](prt.gif)
+
 
 ## Petrophysical Rock Typing (PRT):
-
 One of the benefits of working with Thomeer parameters is that the exact mode of the PTD (radius) can be calculated for each sample using the Buiting Mode equation as shown below:
 
         Mode(microns) = (exp(-1.15 * G) * (214/Pd))/2
@@ -57,12 +59,6 @@ Amaefule-Kersey FZI is calculated:
 where Porosity is a volume fraction and not percent. 
 
 On this dataset it appears that r35 has the best match to the actual mode of the Pore Throat Distribution. The bi-modality in the macro-porous rock has FZI falling between the two modes since it is the mean pore throat radius. Windland's r35 does a fairly good job of estimating the most dominant pore throat. 
-
-
-### PRT in Relationship with Mode of Pore Throat Distribution, Winland r35 , Amaefule FZI and RQI:
-## Altair used to Compare Clerke's Petrophysical Rock Types (PRTs) to Winland r35 and Amaefule FZI and RQI:
-![Geolog_Image](prt.gif)
-
 
 2) Run MultiMin for a solid log analysis model using the typical minerals found in the Arab D reservoir; Limestone, Dolomite, Anhydrite and Illite. With MultiMin we always use environmentally corrected log data and use the calculated uncertainties for each log curve employed in the analysis. 
 
